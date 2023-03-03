@@ -1,4 +1,4 @@
-# Consumer Statement Reports - Path to automation
+# - Path to automation
 
 **Current State -** 
 
