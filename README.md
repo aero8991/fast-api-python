@@ -2,7 +2,7 @@
 
 **Current State -** 
 
-Genoa is keeping track (manually) of bill reports that get sent out to patients and providers from every pharmacy. Every month we send a few files to a printing company for them to print/distribute our bills for us.  The process is highly complicated and contains many exceptions so what has happend is IT basically owns the process and micro manages it. Currently any update/change is sent via email to IT for manual data entry. 
+Company is keeping track (manually) of bill reports that get sent out to patients and providers from every pharmacy. Every month we send a few files to a printing company for them to print/distribute our bills for us.  The process is highly complicated and contains many exceptions so what has happend is IT basically owns the process and micro manages it. Currently any update/change is sent via email to IT for manual data entry. 
 
 **Future state -**
 
